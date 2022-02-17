@@ -1,5 +1,9 @@
 # Main (unreleased)
 
+## v227p232 (11/9/2021)
+
+* Deactivate LPXC (https://github.com/heroku/heroku-buildpack-ruby/pull/1228)
+
 ## v227 (4/14/2021)
 
 * Bundler 2.x is now 2.2.16 (https://github.com/heroku/heroku-buildpack-ruby/pull/1150)
