@@ -3,6 +3,7 @@
 ## v227p232 (11/9/2021)
 
 * Deactivate LPXC (https://github.com/heroku/heroku-buildpack-ruby/pull/1228)
+* Remove instrumentation and LPXC logic (https://github.com/heroku/heroku-buildpack-ruby/pull/1229)
 
 ## v227 (4/14/2021)
 
